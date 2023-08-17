@@ -1,0 +1,27 @@
+fontawesone/
+
+<script src="https://kit.fontawesome.com/dbb7afa741.js" crossorigin="anonymous"></script>
+
+html/
+
+<footer>
+  code &amp; design by oaetmeal <i class="fa-solid fa-trademark"></i>
+</footer>
+
+css/
+
+footer {
+      /* position: fixed;
+      width: 100%;
+      
+      left: 0;
+      bottom: 0; */
+      height: 50px;
+      line-height: 50px;
+      margin-top: 20px;
+      border-top: 1px solid #b4b1b1;
+      color: #969393;
+      font-size: 0.9rem;
+      
+      text-align: center;
+      z-index: 0; }
