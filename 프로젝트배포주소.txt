@@ -1,6 +1,6 @@
 프로필 페이지 https://hwangminsun.github.io/portfolio/
 반응형 http://maysun7.dothome.co.kr/
-모바일 http://icelatte.dothome.co.kr
+모바일 https://hwangminsun.github.io/Cocodor
 예술의전당 https://sonhanbin.github.io/seoul_arts_center/
 리액트 페이지 작업중
 리액트 영화 리스트 작업중 https://hwangminsun.github.io/movieapp/
