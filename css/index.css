@@ -1417,7 +1417,7 @@ span.zero {
 .profile_list_1 li.percent span {
     width: 86.4%;
     height: 9px;
-    transform: translate(4.6px, -1.5px);
+    transform: translateX(4.6px);
     background: #DDB9A7;
     border-radius: 12px;
 }
@@ -1470,17 +1470,17 @@ span.zero {
     left: 88px;
 }
 
-li.my_name {
+/* li.my_name {
     color:rgba(159, 84, 166, 0.7);
     
-}
+} */
 
 li.mail a {
-    font-size: 22px;
-    letter-spacing : 3px;
-    text-decoration: underline;
+    font-size: 16px;
+    letter-spacing : 2px;
+    /* text-decoration: underline; */
     /* font-weight: bold; */
-    color: rgb(197, 126, 166);
+    /* color: rgb(197, 126, 166); */
 }
 
 span.edu_1, .date {
@@ -1491,7 +1491,7 @@ span.edu_1, .date {
 }
 
 span.mirim {
-    color: green;
+    /* color: green; */
     letter-spacing: 1px;
 }
 
